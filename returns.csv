@@ -1,0 +1,47 @@
+Approver,Order ID,Product ID,Return Reason,Category
+C Arnold,CA-2015-148950,OFF-BI-10001249,Defective,Office Supplies
+C Arnold,CA-2017-134803,TEC-MA-10001972,Defective,Technology
+C Arnold,CA-2015-127012,OFF-FA-10004854,Incorrect Product Ordered,Office Supplies
+C Arnold,CA-2015-124688,TEC-PH-10000455,Incorrect Product Ordered,Technology
+C Arnold,CA-2015-151162,TEC-PH-10001809,Incorrect Product Ordered,Technology
+C Arnold,US-2015-164763,OFF-PA-10003063,Incorrect Product Ordered,Office Supplies
+C Arnold,CA-2015-156349,FUR-BO-10000362,Incorrect Product Ordered,Furniture
+C Arnold,CA-2015-166744,FUR-FU-10004952,Incorrect Product Ordered,Furniture
+C Arnold,CA-2016-142601,OFF-ST-10002756,Incorrect Product Ordered,Office Supplies
+C Arnold,CA-2018-162016,OFF-AP-10003040,Incorrect Product Ordered,Office Supplies
+C Arnold,CA-2015-164861,OFF-PA-10001972,Incorrect Product Shipped,Office Supplies
+C Arnold,CA-2017-145583,OFF-BI-10004781,Incorrect Product Shipped,Office Supplies
+C Arnold,CA-2017-162159,FUR-CH-10001146,Incorrect Product Shipped,Furniture
+C Arnold,CA-2018-137428,FUR-CH-10002774,No Longer Needed,Furniture
+C Arnold,CA-2016-164882,OFF-SU-10004231,Incorrect Product Ordered,Office Supplies
+C Arnold,US-2017-157490,OFF-BI-10002571,Defective,Office Supplies
+C Arnold,CA-2017-145982,TEC-PH-10000011,Defective,Technology
+E Williams,US-2015-164406,OFF-BI-10002309,Defective,Office Supplies
+E Williams,CA-2016-143238,TEC-AC-10003499,Defective,Technology
+E Williams,US-2017-114293,FUR-CH-10003833,Defective,Furniture
+E Williams,US-2015-140452,TEC-PH-10000307,Incorrect Product Ordered,Technology
+E Williams,US-2015-140452,OFF-ST-10002485,Incorrect Product Ordered,Office Supplies
+E Williams,CA-2015-143840,TEC-PH-10002660,Incorrect Product Ordered,Technology
+E Williams,US-2017-111528,OFF-ST-10001526,Incorrect Product Ordered,Office Supplies
+E Williams,CA-2017-134775,OFF-PA-10004734,Incorrect Product Ordered,Office Supplies
+E Williams,CA-2018-129707,OFF-AR-10000246,Incorrect Product Ordered,Office Supplies
+E Williams,CA-2018-144064,OFF-LA-10004544,Incorrect Product Ordered,Office Supplies
+E Williams,CA-2018-112753,OFF-PA-10002036,Incorrect Product Ordered,Office Supplies
+E Williams,CA-2018-112865,TEC-AC-10000387,Incorrect Product Shipped,Technology
+E Williams,CA-2015-143336,OFF-AR-10003056,Incorrect Product Ordered,Office Supplies
+F Azad,CA-2016-157770,TEC-AC-10003399,Defective,Technology
+F Azad,CA-2015-103744,OFF-BI-10000320,General,Office Supplies
+F Azad,CA-2016-114048,FUR-FU-10004351,General,Furniture
+F Azad,CA-2016-155761,OFF-ST-10000943,Product Listed Incorrectly,Office Supplies
+F Azad,CA-2015-126361,OFF-PA-10000806,Incorrect Product Ordered,Office Supplies
+F Azad,CA-2015-126361,OFF-ST-10002289,Incorrect Product Ordered,Office Supplies
+F Azad,CA-2015-127131,OFF-ST-10002344,Incorrect Product Ordered,Office Supplies
+F Azad,CA-2015-127131,OFF-ST-10000036,Incorrect Product Ordered,Office Supplies
+F Azad,CA-2015-164721,OFF-AP-10000240,Incorrect Product Ordered,Office Supplies
+F Azad,CA-2016-132374,OFF-AR-10001615,Incorrect Product Ordered,Office Supplies
+F Azad,CA-2017-136483,OFF-AR-10000940,Incorrect Product Ordered,Office Supplies
+F Azad,US-2017-156986,OFF-PA-10004101,Incorrect Product Ordered,Office Supplies
+F Azad,US-2018-105046,OFF-PA-10004353,Incorrect Product Ordered,Office Supplies
+F Azad,US-2018-109253,OFF-AP-10002867,Incorrect Product Shipped,Office Supplies
+F Azad,CA-2015-152345,TEC-PH-10004897,No Longer Needed,Technology
+F Azad,CA-2016-146486,TEC-AC-10002018,Product Listed Incorrectly,Technology
